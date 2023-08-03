@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="enter_the_username">Enter the Amount</string>
+    <string name="message">From</string>
+    <string name="add">ADD</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+    <string name="convert">Convert</string>
+</resources>
